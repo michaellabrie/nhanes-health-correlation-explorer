@@ -79,3 +79,11 @@ Yes, please proceed with creating the commit. Remove the optional "Co-Authored-B
 Keep Michael LaBrie as the commit author with my GitHub noreply email.
 
 After the commit succeeds, please help me create the public GitHub repository named `nhanes-health-correlation-explorer` and push the committed files. Show me the publishing steps before executing them.
+
+## Prompt 7: Connect to GitHub
+
+I have created the empty public GitHub repository:
+
+https://github.com/michaellabrie/nhanes-health-correlation-explorer
+
+Please proceed with Step 3a to connect my local repository to GitHub. Show me the commands before pushing, and confirm that only the seven intended files will be published. Once I approve the push, verify that the repository is publicly accessible and that the main branch is correctly tracking origin/main.
